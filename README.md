@@ -2,11 +2,12 @@
 
 ## Overview
 
+
 **CreditPath - Smart Loan Predictor** is a machine learning project aimed at predicting loan approval based on various applicant features. The application leverages a variety of machine learning algorithms to analyze historical loan data and provide predictive insights for new loan applications.
 ![image](https://github.com/user-attachments/assets/65969728-bf32-45c2-8114-da500841deff)
 
 ![image](https://github.com/user-attachments/assets/a4452339-c6bb-432b-8438-bc71692857b8)
-![image](https://github.com/user-attachments/assets/318819a1-8c2d-452f-a969-a6ef067f531c)
+![image](https://github.com/user-attachments/assets/93da8ee5-81e8-4952-9584-44b6367470c4)
 
 ## Features
 
@@ -45,7 +46,7 @@ CreditPath/
 https://creditpath-smart-loan-predictor-gvqf.onrender.com
    You will be able to input applicant details and get loan approval predictions.   
 
-![image](https://github.com/user-attachments/assets/f2ba753d-d85e-47b4-ba59-5c02bd480132)
+![image](https://github.com/user-attachments/assets/93da8ee5-81e8-4952-9584-44b6367470c4)
 
 
 4. **Model Training and Testing:**
