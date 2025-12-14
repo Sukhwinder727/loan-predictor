@@ -43,7 +43,7 @@ CreditPath/
    Place your dataset CSV files in the `dataset/` folder.
 
 2. **Access the Web Interface:**
-https://creditpath-smart-loan-predictor-gvqf.onrender.com
+https://loan-predictor-dibo.onrender.com
    You will be able to input applicant details and get loan approval predictions.   
 
 ![image](https://github.com/user-attachments/assets/93da8ee5-81e8-4952-9584-44b6367470c4)
